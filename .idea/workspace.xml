@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48cff99b-29ad-4b30-a088-8e92f6ea9604" name="Changes" comment="add login and service center tests" />
+    <list default="true" id="48cff99b-29ad-4b30-a088-8e92f6ea9604" name="Changes" comment="add login and service center tests">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F5_EditServiceCenter.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F6_DetailsServiceCenter.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/F7_DeleteServiceCenter.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P4_EditServiceCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P5_DetailsServiceCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P7_DeleteServiceCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D4_EditServiceCenterStepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D5_DetailsServiceCenterStepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D7_DeleteServiceCenterStepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/F0_Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/F0_Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/F1_Logout.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/F1_Logout.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/F3_SelectAnySubCategoryunderCompanyInfoMenu.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/F3_SelectAnySubCategoryunderCompanyInfoMenu.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/F4_CreateServiceCenter.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/F4_CreateServiceCenter.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/pages/P3_ServiceCenterList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P2_ServiceCenterList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/pages/P4_CreateServiceCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/pages/P3_CreateServiceCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D1_HomeStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D1_HomeStepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D3_CreateServiceCenterStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefs/D3_CreateServiceCenterStepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/testRunner/runners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/testRunner/runners.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +40,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ibtsamfarouk&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ibtsamfarouk/madar&quot;,
+    &quot;accountId&quot;: &quot;289b1705-afb5-4d81-93f7-70371e24d0ab&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/test/java/org/example/stepDefs/D1_HomeStepDef.java" root0="SKIP_INSPECTION" />
   </component>
@@ -184,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721580623574</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add login and service center tests">
+      <option name="closed" value="true" />
+      <created>1721580734990</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721580734990</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

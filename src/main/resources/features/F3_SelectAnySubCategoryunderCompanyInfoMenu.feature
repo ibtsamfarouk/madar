@@ -1,3 +1,4 @@
+@smoke
 Feature: F3_SelectDifferentCategories |user can select any category under any side Menu.
 
   Scenario Outline:	user can select any category under Company Info Menu.

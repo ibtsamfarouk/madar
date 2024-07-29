@@ -1,3 +1,4 @@
+@smoke
 Feature: F0_Login | company user could use login successfully with valid username and password
 
   Scenario: user could login with valid email and password

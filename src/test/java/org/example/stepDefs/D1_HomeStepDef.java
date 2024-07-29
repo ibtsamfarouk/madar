@@ -88,36 +88,3 @@ public class D1_HomeStepDef {
         }
     }
 }
-    /* public void clickOnCategorySideMenu(String categoryName,String subCategoryName){
-        if(categoryName.equals("Company Info"))
-            if(subCategoryName.equals("Service Centers"))
-        {
-            action.moveToElement(homePage.companyInfoMenu()).moveToElement(homePage.serviceCenterSubCategoryUndercompanyInfoMenu()).click().perform();
-            System.out.println("The side menu category is "+categoryName+" sub-category URL: "+ Hooks.driver.getCurrentUrl());
-            Assert.assertTrue(Hooks.driver.getCurrentUrl().contains("ServiceCenters"));
-        }
-        else if (subCategoryName.equals("Employees")) {
-                action.moveToElement(homePage.companyInfoMenu()).moveToElement(homePage.empolyeesSubCategoryUndercompanyInfoMenu()).click().perform();
-                Assert.assertTrue(Hooks.driver.getCurrentUrl().contains("Employees"));
-                System.out.println("The side menu category is "+categoryName+" sub-category URL: "+ Hooks.driver.getCurrentUrl());
-
-            }
-            else if (subCategoryName.equals("Packages")) {
-                action.moveToElement(homePage.companyInfoMenu()).moveToElement(homePage.packagesSubCategoryUndercompanyInfoMenu()).click().perform();
-                Assert.assertTrue(Hooks.driver.getCurrentUrl().contains("HajjPackages"));
-                System.out.println("The side menu category is "+categoryName+" sub-category URL: "+ Hooks.driver.getCurrentUrl());
-
-            }
-            else if (subCategoryName.equals("Assembly Points")) {
-                action.moveToElement(homePage.companyInfoMenu()).moveToElement(homePage.AssemblyPointsSubCategoryUndercompanyInfoMenu()).click().perform();
-                Assert.assertTrue(Hooks.driver.getCurrentUrl().contains("AssemblyPoints"));
-                System.out.println("The side menu category is "+categoryName+" sub-category URL: "+ Hooks.driver.getCurrentUrl());
-
-            }
-            else  System.out.println("This subcategory doesn't exist");
-
-    } */
-
-
-
-

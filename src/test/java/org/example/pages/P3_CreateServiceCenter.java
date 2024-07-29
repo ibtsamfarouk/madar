@@ -4,7 +4,7 @@ import org.example.stepDefs.Hooks;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-public class P4_CreateServiceCenter {
+public class P3_CreateServiceCenter {
     public WebElement ArabicNameTxtBox(){
         return (Hooks.driver.findElement(By.name("ArabicName")));
     }

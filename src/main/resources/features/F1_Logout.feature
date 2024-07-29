@@ -1,3 +1,4 @@
+@smoke
 Feature: F1_Logout | company user could  logout successfully
 
   Scenario: company user could  logout successfully
